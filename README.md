@@ -47,5 +47,6 @@ The objective is to understand which product categories and regions generate the
 - Superstore_Profit_Analysis.pptx — Project presentation
 
 ## Dashboard
-[View Interactive Dashboard](PASTE_YOUR_LOOKER_STUDIO_LINK_HERE)
+[View Interactive Dashboard](https://datastudio.google.com/reporting/6ae2d32f-0528-4c78-b3e4-00b5aa697f01)
+
 
